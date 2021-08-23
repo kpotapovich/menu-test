@@ -1,0 +1,24 @@
+.content-bloc {
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu-ul {
+    list-style-type: none;
+    background-color: #60FA78;
+    width: 30%;
+    height: 10%;
+    text-align: center;
+    border: 1px solid;
+    padding: 0;
+}
+
+.menu-li{
+    font-size: 30px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    list-style-type: none;
+
+}
